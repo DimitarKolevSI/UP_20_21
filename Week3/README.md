@@ -77,13 +77,14 @@ Hint: За генериране на случайно число използв�
 Задача 12.
 Напишете програма, която приема цяло положително число n и чертае равнобедрен триъгълник с височина n запълнен с ‘*’ 
 
-
-
 Полезни връзки:
+
 https://www.w3schools.com/cpp/cpp_for_loop.asp
 
 https://www.tutorialspoint.com/cplusplus/cpp_for_loop.htm
 
 https://beginnersbook.com/2017/08/cpp-for-loop/
 
+https://www.w3schools.com/cpp/cpp_while_loop.asp
 
+https://www.w3schools.com/cpp/cpp_do_while_loop.asp
