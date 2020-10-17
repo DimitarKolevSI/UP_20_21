@@ -81,7 +81,9 @@ Hint: За генериране на случайно число използв�
 
 Полезни връзки:
 https://www.w3schools.com/cpp/cpp_for_loop.asp
+
 https://www.tutorialspoint.com/cplusplus/cpp_for_loop.htm
+
 https://beginnersbook.com/2017/08/cpp-for-loop/
 
 
