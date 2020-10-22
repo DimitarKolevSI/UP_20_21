@@ -7,6 +7,8 @@ int task1() {
 	for (int i = 2; i <= 100; i += 2) {
 		cout << i << " ";
 	}
+
+
 	cout << endl;
 	system("pause");
 	return 0;
